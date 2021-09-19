@@ -1,6 +1,6 @@
 {
   "name": "@pwa-frame/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -30,12 +30,13 @@
     "mobx": "^6.3.3",
     "mobx-react": "^7.2.0",
     "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-router": "^5.2.1"
   },
   "devDependencies": {
     "@types/node": "^16.9.1",
     "@types/react": "^17.0.20",
     "@types/react-router": "^5.1.16",
-    "typescript": "^4.4.3"
+    "typescript": "^4.3.5"
   }
 }
